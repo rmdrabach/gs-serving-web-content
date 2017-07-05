@@ -26,3 +26,5 @@ dependency-reduced-pom.xml
 *.idea
 
 README.html
+
+Procfile
