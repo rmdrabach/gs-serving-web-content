@@ -1,0 +1,4 @@
+{
+  "name": "STS GS Spring Serving Web Content",
+  "description": "Exemplo de aplicação web simples utilizando Spring, com testes unitários e deploy automático no Heroku."
+}
